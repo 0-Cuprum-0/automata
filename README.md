@@ -1,0 +1,2 @@
+# automata
+Implamentacja automatu skończonego
