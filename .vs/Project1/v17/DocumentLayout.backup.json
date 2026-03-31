@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yesoc\\source\\repos\\Automata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83C0FB37-CF43-424C-8300-C4B1009ADA0F}|Project1\\Project1.vcxproj|C:\\Users\\yesoc\\source\\repos\\Automata\\Project1\\a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83C0FB37-CF43-424C-8300-C4B1009ADA0F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "a.c",
+              "DocumentMoniker": "C:\\Users\\yesoc\\source\\repos\\Automata\\Project1\\a.c",
+              "RelativeDocumentMoniker": "Project1\\a.c",
+              "ToolTip": "C:\\Users\\yesoc\\source\\repos\\Automata\\Project1\\a.c",
+              "RelativeToolTip": "Project1\\a.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-08T16:35:56.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
